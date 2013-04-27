@@ -1,0 +1,2 @@
+[ "elli": {:git,"https://github.com/knutin/elli.git","e5069c7df342be8578acc0e56387776cad761a10",[branch: "handover"]},
+  "erlmultipart": {:git,"https://github.com/mme/erlmultipart.git","0b41b0fecd99d98fb8483d9c0d348956cb92d1a3",[]} ]
